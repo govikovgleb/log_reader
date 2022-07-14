@@ -1,0 +1,17 @@
+{
+    "name": "user/read_log",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "g.novikov",
+            "email": "g.novikov@pinkman.ru"
+        }
+    ],
+    "require": {
+        "php-ds/php-ds": "^1.4"
+    }
+}
